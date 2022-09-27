@@ -17,7 +17,7 @@ settings:
 monitors:
   - id: space586-com # unique identifier
     name: space586.com
-    description: 'You write code. They handle the rest.' # default=empty
+    description: 'Look your mother look' # default=empty
     url: 'https://space586.com/' # URL to fetch
     method: GET # default=GET
     expectStatus: 200 # operational status, default=200
@@ -26,7 +26,7 @@ monitors:
 
   - id: pan-space586-com
     name: pan.space586.com
-    description: 'Built for anything connected to the Internet.'
+    description: '这是好的'
     url: 'https://pan.space586.com/'
     method: GET
     expectStatus: 200
